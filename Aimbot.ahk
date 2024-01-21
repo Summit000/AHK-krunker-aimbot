@@ -20,7 +20,7 @@ couleur = 000000
 Gui OSD:+LastFound +AlwaysOnTop -Caption +ToolWindow
 Gui, OSD:Color, couleur
 Gui, OSD:Font, s12
-Gui, OSD:Add, Text, cRed , En marche
+Gui, OSD:Add, Text, cRed , ON
 
 Gui, OSD:Show, x0 y0 NoActivate
 
